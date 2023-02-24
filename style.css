@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    text-decoration: none;
 }
 body
 {
@@ -104,7 +103,10 @@ body
     font-size: 18px;
     color: #03a9f4;
 }
-.contactInfo ul li span
+.contactInfo ul li a {
+    text-decoration: none;
+}
+.contactInfo ul li a span
 {
     color: #fff;
     font-weight: 300;
@@ -112,6 +114,9 @@ body
 .contactInfo.education li
 {
     margin-bottom: 15px;
+}
+.contactInfo.education a {
+    text-decoration: none;
 }
 .contactInfo.education h5
 {
