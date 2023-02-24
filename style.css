@@ -133,6 +133,13 @@ body
     color: #fff;
     font-weight: 300;
 }
+
+.contactInfo.language span
+{
+    color: #fff;
+    font-weight: 300;
+}
+/*
 .contactInfo.language .percent
 {
     position: relative;
@@ -150,7 +157,7 @@ body
     height: 100%;
     background: #03a9f4;
 }
-/*
+
 .certificate link {
     color: #fff;
     visibility: hidden;
