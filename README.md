@@ -1,5 +1,5 @@
-# ProductDesigner-CV
-📑 Juan Pablo - Product Designer (CV en-US)
+# Product Designer Resume
+📑 Juan Pablo - Product Designer (resume en-US)
 
 <a href=https://juanpablodesigner.github.io/ProductDesigner-CV/>Click here</a> to see my resume in your browser.
 
