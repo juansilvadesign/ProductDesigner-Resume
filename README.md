@@ -2,7 +2,7 @@
 
 <p align="center">
 📑 Juan Silva - Product Designer (resume en-US) <br/>
-<a href="https://juanpablodesigner.github.io/ProductDesigner-Resume/" target="_blank">Click here</a> to see my resume in your browser.
+<a href="https://juansilvadesign.github.io/ProductDesigner-Resume/" target="_blank">Click here</a> to see my resume in your browser.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 I've developed my resume only using HTML and CSS. Suggestions and critics are welcome. Hope you enjoy!
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/ProductDesigner-Resume/)
+- [Access the finished project. Online.](https://juansilvadesign.github.io/ProductDesigner-Resume/)
 
 ## :memo: Licence
 
